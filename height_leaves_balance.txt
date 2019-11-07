@@ -1,0 +1,3 @@
+Tree Height = 7
+Number of Leaves = 21
+Tree Balance = 0
